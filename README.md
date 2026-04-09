@@ -1,4 +1,5 @@
 ATV Resource Gauge
+
 A lightweight desktop tool that estimates the token usage, energy consumption, and water usage of your AI prompts in real time. Built as a companion to the Harmonic Calibration Practice (HCP) — a framework for ethical, efficient, and intentional human-AI collaboration developed by Against the Void.
 Every conversation with an AI system draws on real physical resources: electricity from a grid, water used to cool data centers. This tool makes those costs visible while you work, so you can develop intuition for what efficient prompting actually looks like — and make that efficiency a habit.
 How to use it
