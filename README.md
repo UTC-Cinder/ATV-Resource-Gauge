@@ -21,7 +21,7 @@ Power — energy consumption in mWh
 
 Water — water usage in mL
 
-The indicator dot shows teal (efficient), gold (moderate), or rose (heavy) so you can calibrate at a glance without reading numbers.
+The indicator dot shows teal (efficient), gold (moderate), or rose (heavy) so you can calibrate at a glance without reading numbers. After each entry, click "Log + Clear," and the "Paste Prompt Below" field will clear, prepping the field for your next post and starting a running log and tally of each entry and its cost. At the end of the session, you can click "Export CSV" to send a file directly to your downloads with the summary data of your session, which can then be used in various document formats that can then be opened in Excel or Google Sheets for reporting, analysis, or team tracking.
 
 About
 
